@@ -3,7 +3,7 @@
 ### Predictive Analytics for Business Nanodegree
 ### Min Lu
 
-#### This repository contains projects for Udacity's Predictive Analytics for Business Nanodegree. 
+#### This repository contains projects for Udacity's Predictive Analytics for Business Nanodegree. Please click the PDF file to see the final reports
 
 ### Part 1: Problem Solving with Advanced Analytics by Alteryx
 Learn a structured framework for solving problems with advanced analytics. 
