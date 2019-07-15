@@ -1,6 +1,6 @@
 # Udacity--Predictive-Analytics-for-Business
 
-Predictive Analytics for Business Nanodegree
+# Predictive Analytics for Business Nanodegree #
 Kai Sheng Teh
 This repository contains projects for Udacity's Predictive Analytics for Business Nanodegree. (It was known as Business Analyst Nanodegree back in 2017)
 
