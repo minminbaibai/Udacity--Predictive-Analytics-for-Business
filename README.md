@@ -1,11 +1,12 @@
 # Udacity--Predictive-Analytics-for-Business
 
-# Predictive Analytics for Business Nanodegree #
-Kai Sheng Teh
-This repository contains projects for Udacity's Predictive Analytics for Business Nanodegree. (It was known as Business Analyst Nanodegree back in 2017)
+## Predictive Analytics for Business Nanodegree
+Min Lu
+This repository contains projects for Udacity's Predictive Analytics for Business Nanodegree. 
 
 Part 1: Problem Solving with Advanced Analytics by Alteryx
-Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Learn linear regression.
+Learn a structured framework for solving problems with advanced analytics. 
+Learn to select the most appropriate analytical methodology. Learn linear regression.
 
 Project: Predicting Diamond Prices
 Project: Predicting Catalog Demand
